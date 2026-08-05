@@ -224,6 +224,11 @@ They include:
 
 The TalentBridge HR Recruitment Automation project demonstrates how no-code technologies can automate a complete recruitment lifecycle while reducing administrative effort, improving communication, and increasing recruitment efficiency.
 
+## Repository
+
+GitHub:
+https://github.com/cbmaduka/talentbridge-hr-recruitment-automation
+
 ---
 # Author
 
